@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 from os import system
-from art.main import folder
+try:from art.main import folder
+except FileNotFoundError:exit('\n [×] Update dulu version python anda : pkg install python')
 system('clear')
 
 
