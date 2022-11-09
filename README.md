@@ -1,5 +1,5 @@
-    • premium/berbayar
-    • perintah
+
+    $ INSTALL ON TERMUX 
 
     $ pkg update
     $ pkg upgrade
@@ -8,9 +8,12 @@
     $ pip install bs4
     $ pip install requests 
     $ git clone https://github.com/khamdihi-XV/premium
-
     $ cd premium
-    $ python Run.py
+    $ python run.py
 
-    ! Kasih bintang lah ka😗
-    ! Masih ada bug? Langsung lapor aja : 085729416714
+    • List harga license
+
+    • 1 Minggu 20k
+    • 2 Minggu 40k
+    • User baru akan mendapatkan license trial untuk 1-2 jam ♥
+    
