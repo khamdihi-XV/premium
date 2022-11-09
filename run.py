@@ -7,6 +7,6 @@ system('clear')
 
 if __name__ == "__main__":
         try:
-                __import__("art").folder()
+                __import__("main").folder()
         except Exception as e:
                 exit(str(e))
